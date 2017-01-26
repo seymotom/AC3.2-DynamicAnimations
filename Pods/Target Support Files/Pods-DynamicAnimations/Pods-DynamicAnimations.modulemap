@@ -1,0 +1,6 @@
+framework module Pods_DynamicAnimations {
+  umbrella header "Pods-DynamicAnimations-umbrella.h"
+
+  export *
+  module * { export * }
+}
